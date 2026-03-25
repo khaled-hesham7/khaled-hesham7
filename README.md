@@ -78,6 +78,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/khaled-hesham7/khaled-hesham7/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
+
 ------
 
 <h3 align="left">Connect with me:</h3>
