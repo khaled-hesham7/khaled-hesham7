@@ -21,11 +21,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-           <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=php,laravel,mysql,html" style="vertical-align: middle;" />
-      <img height="50" src="https://api.iconify.design/logos:composer.svg" style="vertical-align: middle; margin-left: 5px;" />
-    </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+<td>
+  <img height="40" src="https://skillicons.dev/icons?i=php,laravel,mysql,html" style="vertical-align: middle;" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" style="vertical-align: middle; margin-left: 10px; filter: drop-shadow(0 0 2px rgba(255,255,255,0.2));" />
+</td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Testing & Automation:</td>
@@ -72,12 +72,7 @@
 
 [![Khaled's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaled-hesham7&bg_color=000000&color=2ECC71&line=2ECC71&point=ffffff&area=true&hide_border=true)](https://github.com/khaled-hesham7)
 
-<div align="center">
-  <a href="https://github.com/khaled-hesham7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-hesham7&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2ECC71&text_color=ffffff&hide_border=true" alt="khaled-hesham7"/>    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khaled-hesham7&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2ECC71&text_color=ffffff&hide_border=true&hide_rank=true&hide=stars,prs,issues,contribs&include_all_commits=true" alt="khaled-hesham7"/>
-  </a>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khaled-hesham7&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2ECC71&text_color=ffffff&hide_border=true&hide_rank=true&hide=stars,prs,issues,contribs" alt="khaled-hesham7"/>
 
 ------
 
