@@ -74,7 +74,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khaled-hesham7&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2ECC71&text_color=ffffff&hide_border=true&hide_rank=true&hide=stars,prs,issues,contribs" alt="khaled-hesham7"/>
 
-<h3 align="left">🐍 Snake Contribution Graph:</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/khaled-hesham7/khaled-hesham7/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
