@@ -21,11 +21,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td>
-          <img height="40" src="https://skillicons.dev/icons?i=php,laravel,mysql,html" style="vertical-align: middle;" />
-          <img height="40" src="https://api.iconify.design/logos:composer.svg" style="vertical-align: middle; margin-left: 5px;" />
-        </td>
+           <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=php,laravel,mysql,html" style="vertical-align: middle;" />
+      <img height="50" src="https://api.iconify.design/logos:composer.svg" style="vertical-align: middle; margin-left: 5px;" />
+    </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Testing & Automation:</td>
