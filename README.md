@@ -17,40 +17,6 @@
 - **Software Tester Intern** | DEPI (Digital Egypt Pioneers Initial) | (Oct 2025 – June 2026).
 - **Professional Development** | Completed tracks in Freelancing, Soft Skills, and Professional English.
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/khaled-hesham7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="vertical-align: middle; margin-right: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/share/1Bc3unDxtP/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaled-hesham7" height="40" style="vertical-align: middle; margin-right: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/khaled.hesham7?utm_source=qr&igsh=YXNweHF3dW02eG1i" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" style="vertical-align: middle; margin-right: 5px;" />
-  </a>
-  <a href="mailto:khaled.hesham.elsayed@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="vertical-align: middle; margin-right: 5px;" />
-  </a>
-  <a href="https://github.com/khaled-hesham7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" style="vertical-align: middle;" />
-  </a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-hesham7&label=Profile%20views&color=2ECC71&style=flat" alt="khaled-hesham7" /> </p>
-
-------
-<h3 align="left">Activity:</h3>
-
-[![Khaled's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaled-hesham7&bg_color=000000&color=2ECC71&line=2ECC71&point=ffffff&area=true&hide_border=true)](https://github.com/khaled-hesham7)
-
-<div align="center">
-  <a href="https://github.com/khaled-hesham7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-hesham7&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2ECC71&text_color=ffffff&hide_border=true" alt="khaled-hesham7"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khaled-hesham7&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2ECC71&text_color=ffffff&hide_border=true" alt="khaled-hesham7"/>
-  </a>
-</div>
-
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
@@ -100,3 +66,37 @@
         </td>
     </tr>
 </table>
+------
+
+<h3 align="left">Activity:</h3>
+
+[![Khaled's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaled-hesham7&bg_color=000000&color=2ECC71&line=2ECC71&point=ffffff&area=true&hide_border=true)](https://github.com/khaled-hesham7)
+
+<div align="center">
+  <a href="https://github.com/khaled-hesham7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-hesham7&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2ECC71&text_color=ffffff&hide_border=true" alt="khaled-hesham7"/>    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khaled-hesham7&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2ECC71&text_color=ffffff&hide_border=true&hide_rank=true&hide=stars,prs,issues,contribs&include_all_commits=true" alt="khaled-hesham7"/>
+  </a>
+</div>
+
+------
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/khaled-hesham7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="vertical-align: middle; margin-right: 5px;" />
+  </a>
+  <a href="https://www.facebook.com/share/1Bc3unDxtP/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaled-hesham7" height="40" style="vertical-align: middle; margin-right: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/khaled.hesham7?utm_source=qr&igsh=YXNweHF3dW02eG1i" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" style="vertical-align: middle; margin-right: 5px;" />
+  </a>
+  <a href="mailto:khaled.hesham.elsayed@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="vertical-align: middle; margin-right: 5px;" />
+  </a>
+  <a href="https://github.com/khaled-hesham7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" style="vertical-align: middle;" />
+  </a>
+</p>
