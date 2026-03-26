@@ -7,7 +7,7 @@
 <br>
 
 <p>
-  I'm Khaled Hesham, a highly motivated professional with a strong foundation in building robust server-side applications using **PHP/Laravel** and ensuring software excellence through **Manual & Automation Testing**. I love to explore new technologies and solve complex technical challenges 🚀. Apart from that, I love diving into the world of software quality.
+  I'm Khaled Hesham, a highly motivated professional with a strong foundation in building robust server-side applications using PHP/Laravel and ensuring software excellence through Manual & Automation Testing. I love to explore new technologies and solve complex technical challenges . Apart from that, I love diving into the world of software quality.
 </p>
 
 ### 🎓 Education & Certifications:
